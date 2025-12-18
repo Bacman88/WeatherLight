@@ -25,3 +25,7 @@ ESP32-based intelligent LED weather display system with GitHub OTA updates.
 - Offline / error fallbacks (Wi-Fi/NTP/API failure handling)
 
 - Seasonal mode (Christmas effects support)
+
+## License
+This project is licensed under the MIT License.
+Commercial use requires a separate commercial license – see COMMERCIAL_LICENSE.md.
