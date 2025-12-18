@@ -1,4 +1,7 @@
-![WeatherLight_icon](docs/github_icon.png)
+<p align="center">
+  <img src="docs/github_icon.png" alt="WeatherLight logo" width="640"><br>
+  <em>WeatherLight — intelligent LED weather display</em>
+</p>
 
 WeatherLight ESP32-based intelligent LED weather display system with GitHub OTA updates.
 
