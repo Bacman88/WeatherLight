@@ -1,6 +1,6 @@
 ![WeatherLight_icon](docs/github_icon.png)
 
-ESP32-based intelligent LED weather display system with GitHub OTA updates.
+WeatherLight ESP32-based intelligent LED weather display system with GitHub OTA updates.
 
 ## Features
 
