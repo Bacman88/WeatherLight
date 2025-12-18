@@ -26,6 +26,8 @@ WeatherLight ESP32-based intelligent LED weather display system with GitHub OTA 
 
 - Seasonal mode (Christmas effects support)
 
+- Two languages - PL and EN
+
 ## License
 This project is licensed under the MIT License.
 Commercial use requires a separate commercial license – see COMMERCIAL_LICENSE.md.
