@@ -85,6 +85,66 @@ WeatherLight has been developed and tested on the following reference hardware c
 > Other ESP32 variants and compatible addressable LEDs may work, but the above setup is the officially tested reference configuration.
 
 
-## License
-This project is licensed under the MIT License.
-Commercial use requires a separate commercial license – see COMMERCIAL_LICENSE.md.
+## 🔗 Links
+
+- **Documentation**: See README.md for complete setup guide
+- **Translation Guide**: README.md includes developer guide for adding languages
+- **API Documentation**: README.md includes all API endpoints
+- **Previous Release**: [v6.1.1](../tag/6.1.1)
+- **Issue Tracker**: [Report issues here](../../issues)
+
+---
+
+## ⚙️ System Requirements
+
+### Hardware
+- ESP32-C6 DevKit (or compatible)
+- 300 WS2812B LEDs (2× 150 LED strips)
+- 6 PIR motion sensors
+- 5V 10A+ power supply
+- WiFi network (2.4 GHz)
+
+### Software
+- Arduino IDE 2.x or PlatformIO
+- ESP32 board package 3.0.7+
+- Libraries: Adafruit NeoPixel, ArduinoJson
+
+---
+
+## 📄 License
+
+WeatherLight is free to use under the MIT License for personal, educational and non-commercial purposes.
+
+Commercial use (including use in products, services, or installations provided for a fee) requires a separate commercial license.
+
+**For commercial licensing inquiries, contact: Smart Ant Technologies**
+
+---
+
+## 🙏 Data Provider Acknowledgments
+
+This release ensures proper attribution to:
+- **Open-Meteo**: Weather data (CC BY 4.0)
+- **NOAA SWPC**: Space weather data
+- **US Naval Observatory**: Moon phase data
+- **OpenStreetMap**: Map tiles and data
+
+---
+
+
+### Future Updates
+v6.2.0 will focus on new features and enhancements. v6.1.x series is now feature-complete.
+
+---
+
+**Version**: 6.1.2  
+**Release Date**: December 19, 2024  
+**Status**: ✅ Production Ready  
+**Compatibility**: OTA update from v6.1.0 and v6.1.1  
+**Recommended**: ✅ Update recommended for legal compliance
+
+---
+
+🌟 **Star this repo if you find WeatherLight useful!** 🌟
+
+📦 **Download**: See Assets below for firmware binary and source code
