@@ -55,7 +55,7 @@ Full wiring details and hardware notes are available in
 
 ## Version Information
 
-**Version**: 6.1.2  
+**Version**: 6.3.0  
 **Status**: ✅ Production Ready  
 **Compatibility**: OTA update from v6.1.0 and v6.1.1  
 **Recommended**: ✅ Update recommended for legal compliance
